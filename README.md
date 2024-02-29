@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dreamttk
 
 - 📫 How to reach me arisa.nuno@gmail.com
+- 📞 065 235 5192
 
 <h3 align="left">:pray: Hey, I'm Dream. </h3>
 
