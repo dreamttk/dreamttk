@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dreamttk&hide=issues&show_icons=true&line_height=24&theme=react" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamttk&layout=compact&theme=react" />
+
 </div>
 <h1></h1>
 <h3 align="left">:man_technologist: Languages and Tools : </h3>
