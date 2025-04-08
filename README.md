@@ -4,12 +4,7 @@
 - 📞 065 235 5192
 
 <h3 align="left">:pray: Hey, I'm Dream. </h3>
-
 <br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dreamttk&hide=issues&show_icons=true&line_height=24&theme=react" />
-
-</div>
 <h1></h1>
 <h3 align="left">:man_technologist: Languages and Tools : </h3>
 
