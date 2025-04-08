@@ -3,7 +3,13 @@
 - 📫 How to reach me arisa.nuno@gmail.com
 - 📞 065 235 5192
 
-<h3 align="left">:pray: Hey, I'm Dream. </h3>
+<h3 align="left">🙏 Hey, I'm Dream. </h3>
+<p>
+👩‍💻 I turn coffee into code and designs into delightful apps ☕💻<br>
+💡 Love to work with TypeScript, Angular, .NET, Firebase, and a bit of design magic from Figma & Canva ✨<br>
+📍 Based in Thailand 🇹🇭 | Always excited to collaborate on cool tech projects!
+</p>
+
 <br/>
 <h1></h1>
 <h3 align="left">:man_technologist: Languages and Tools : </h3>
